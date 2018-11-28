@@ -5,7 +5,7 @@ This is the repository for the ***9th homework assignment*** for UBC STAT545/547
 
 [Link to the original make pipeline](https://github.com/STAT545-UBC/make-activity)
 
-#### This repo contains new modifications:
+#### This repo contains new additions/modifications:
 1. [Edited Makefile](https://github.com/STAT545-UBC-students/hw09-Kate96/blob/master/Makefile)
 2. [begin_vowels.R](https://github.com/STAT545-UBC-students/hw09-Kate96/blob/master/begin_vowels.R) and its output [vowels_word_count.csv](https://github.com/STAT545-UBC-students/hw09-Kate96/blob/master/vowels_word_count.csv)
 3. [begin_vowels_plot.R](https://github.com/STAT545-UBC-students/hw09-Kate96/blob/master/begin_vowels_plot.R) and its output [vowels_word_count.png](https://github.com/STAT545-UBC-students/hw09-Kate96/blob/master/vowels_word_count.png)
